@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <a href="https://nav3.cn/?g">
     <img src="https://gcore.jsdelivr.net/gh/liuzi6612/public@gh-pages/nav/logo.svg" width="130" />
   </a>
